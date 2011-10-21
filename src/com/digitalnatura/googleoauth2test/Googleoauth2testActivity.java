@@ -73,6 +73,7 @@ public class Googleoauth2testActivity extends Activity {
 	  // private static final String AUTH_TOKEN_TYPE = "Google Buzz";
 //	  oauth2:https://spreadsheets.google.com/feeds
 	  
+	  
 //	  private static final String AUTH_TOKEN_TYPE = "oauth2:https://www.googleapis.com/auth/buzz";
 	  private static final String AUTH_TOKEN_TYPE = "oauth2:https://spreadsheets.google.com/feeds";
 
